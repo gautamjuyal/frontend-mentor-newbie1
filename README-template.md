@@ -53,6 +53,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
+This project was quite exciting for me. I've used flex all over the project. The problem that I faced was that QR Image (provided with the project) was not fitting its parent flex. I tried to "fit-content" it's parent flex, but I guess it was a wrong approach. Finally I selected the image, and adjusted it's dimensions to 100% (height:100%; width:100%;).
+
+
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
